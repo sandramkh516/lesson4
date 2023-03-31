@@ -9,7 +9,8 @@ function App() {
         <h1>Weather App</h1>
         <SearchEngine />
         <p>
-          <a href="">Open-source code</a>, by Sara Mokhtari
+          <a href="https://github.com/sandramkh516/lesson4">Open-source code</a>
+          , by Sara Mokhtari
         </p>
       </header>
     </div>
