@@ -33,7 +33,7 @@ export default function SearchEngine() {
         <li>Humidity:{humidity}</li>
         <li>Wind:{wind}</li>
         <li>
-          <img src={image} />
+          <img src={image} alt="weather-icon" />
         </li>
       </ul>
     );
